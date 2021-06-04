@@ -13,6 +13,10 @@
 		6860CAFA2669E6FF00FE6011 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6860CAF82669E6FF00FE6011 /* Main.storyboard */; };
 		6860CAFC2669E70200FE6011 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6860CAFB2669E70200FE6011 /* Assets.xcassets */; };
 		6860CAFF2669E70200FE6011 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6860CAFD2669E70200FE6011 /* LaunchScreen.storyboard */; };
+		6860CB0B2669E75E00FE6011 /* LemonMilk.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6860CB072669E75E00FE6011 /* LemonMilk.otf */; };
+		6860CB0C2669E75E00FE6011 /* Moon Flower.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6860CB082669E75E00FE6011 /* Moon Flower.ttf */; };
+		6860CB0D2669E75E00FE6011 /* SugarstyleMillenial-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6860CB092669E75E00FE6011 /* SugarstyleMillenial-Regular.ttf */; };
+		6860CB0E2669E75E00FE6011 /* Blacksword.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6860CB0A2669E75E00FE6011 /* Blacksword.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +28,10 @@
 		6860CAFB2669E70200FE6011 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6860CAFE2669E70200FE6011 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6860CB002669E70200FE6011 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6860CB072669E75E00FE6011 /* LemonMilk.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = LemonMilk.otf; sourceTree = "<group>"; };
+		6860CB082669E75E00FE6011 /* Moon Flower.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Moon Flower.ttf"; sourceTree = "<group>"; };
+		6860CB092669E75E00FE6011 /* SugarstyleMillenial-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SugarstyleMillenial-Regular.ttf"; sourceTree = "<group>"; };
+		6860CB0A2669E75E00FE6011 /* Blacksword.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Blacksword.otf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +71,10 @@
 				6860CAFB2669E70200FE6011 /* Assets.xcassets */,
 				6860CAFD2669E70200FE6011 /* LaunchScreen.storyboard */,
 				6860CB002669E70200FE6011 /* Info.plist */,
+				6860CB0A2669E75E00FE6011 /* Blacksword.otf */,
+				6860CB072669E75E00FE6011 /* LemonMilk.otf */,
+				6860CB082669E75E00FE6011 /* Moon Flower.ttf */,
+				6860CB092669E75E00FE6011 /* SugarstyleMillenial-Regular.ttf */,
 			);
 			path = FancyTextCreator;
 			sourceTree = "<group>";
@@ -124,6 +136,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6860CB0E2669E75E00FE6011 /* Blacksword.otf in Resources */,
+				6860CB0D2669E75E00FE6011 /* SugarstyleMillenial-Regular.ttf in Resources */,
+				6860CB0C2669E75E00FE6011 /* Moon Flower.ttf in Resources */,
+				6860CB0B2669E75E00FE6011 /* LemonMilk.otf in Resources */,
 				6860CAFF2669E70200FE6011 /* LaunchScreen.storyboard in Resources */,
 				6860CAFC2669E70200FE6011 /* Assets.xcassets in Resources */,
 				6860CAFA2669E6FF00FE6011 /* Main.storyboard in Resources */,
